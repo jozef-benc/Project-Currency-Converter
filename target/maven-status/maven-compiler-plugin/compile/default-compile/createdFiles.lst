@@ -1,0 +1,5 @@
+com\example\currency_converter\CurrencyConverterApplication.class
+com\example\currency_converter\CurrencyController.class
+com\example\currency_converter\DataInitializer.class
+com\example\currency_converter\CurrencyRepository.class
+com\example\currency_converter\Currency.class
